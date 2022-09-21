@@ -1,0 +1,12 @@
+body{
+  background-color: #7FBCD2
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+
